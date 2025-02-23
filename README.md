@@ -31,4 +31,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 #### Screenshot
 
-![Bu projenin bir fotoğrafı](./images/README.jpg.png)
+![Bu projenin bir fotoğrafı](./images/screenshot_readme.png)
